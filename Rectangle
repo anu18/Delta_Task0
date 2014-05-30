@@ -55,7 +55,9 @@
 <button id="right">&raquo;</button>
 <button id="top">top</button>
 <button id="bottom">bottom</button>-->
+<label for="length1">Length</label>
 <input type="text" id="length1" />
+<label for="width">Width</label>
 <input type="text" id="width" />
 <input type="button" id="Click" onclick="rect();" value="Click" />
 <div class="block"></div>
